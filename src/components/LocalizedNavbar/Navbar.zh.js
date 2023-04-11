@@ -7,8 +7,8 @@ const zhNavbar = {
   },
   items: [
     {
-      to: "https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html",
-      label: "",
+      to: "http://v.yjie.fun/gy/",
+      label: " 🥳技术支持",
       position: "left",
     },
   ],

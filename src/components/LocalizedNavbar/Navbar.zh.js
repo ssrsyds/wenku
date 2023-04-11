@@ -5,10 +5,10 @@ const zhNavbar = {
     alt: "ChatGPT提示词生成",
     src: "img/logo.svg",
     },
-   items: [
+    items: [
     {
-      to: "",
-      label: "",
+      to: " ",
+      label: " ",
       position: "left",
     },
   ],

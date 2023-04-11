@@ -7,8 +7,8 @@ const enNavbar = {
   },
   items: [
     {
-      to: "",
-      label: "",
+      to: " ",
+      label: " ",
       position: "left",
     },
   ],

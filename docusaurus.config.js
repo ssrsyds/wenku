@@ -124,6 +124,6 @@ function getNavbar() {
 function getAnnouncement() {
   switch(process.env.DOCUSAURUS_CURRENT_LOCALE) {
     case "en": return 'Old domain will expire soon. Please bookmark aishort.top';
-    default: return '旧域名即将失效，继续使用请收藏 aishort.top';
+    default: return '如果觉得使用体验还不错，记得请收藏本站哦！';
   }
 }

@@ -1,14 +1,14 @@
 const zhNavbar = {
   hideOnScroll: true,
-  title: "ChatGPT",
+  title: "ChatGPT SC",
   logo: {
-    alt: "ChatGPT提示词生成",
+    alt: "ChatGPT Shortcuts",
     src: "img/logo.svg",
-    },
-    items: [
+  },
+  items: [
     {
-      to: " ",
-      label: " ",
+      to: "https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html",
+      label: "ChatGPT 使用说明",
       position: "left",
     },
   ],

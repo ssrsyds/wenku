@@ -5,7 +5,7 @@ const enNavbar = {
     alt: "ChatGPT Shortcuts",
     src: "img/logo.svg",
   },
-   items: [
+  items: [
     {
       to: "",
       label: "",
